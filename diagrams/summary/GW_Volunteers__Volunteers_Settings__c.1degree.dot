@@ -1,0 +1,49 @@
+// dot 2.40.1 on Mac OS X 10.12.6
+// SchemaSpy rev 590
+digraph "GW_Volunteers__Volunteers_Settings__c" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Arial"
+    fontsize="8"
+  ];
+  node [
+    fontname="Arial"
+    fontsize="8"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "GW_Volunteers__Volunteers_Settings__c" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">GW_Volunteers__Volunteers_Settings__c</TD></TR>
+      <TR><TD PORT="Id" COLSPAN="3" BGCOLOR="#bed1b8" ALIGN="LEFT">Id</TD></TR>
+      <TR><TD PORT="IsDeleted" COLSPAN="3" ALIGN="LEFT">IsDeleted</TD></TR>
+      <TR><TD PORT="Name" COLSPAN="3" ALIGN="LEFT">Name</TD></TR>
+      <TR><TD PORT="SetupOwnerId" COLSPAN="3" ALIGN="LEFT">SetupOwnerId</TD></TR>
+      <TR><TD PORT="CreatedDate" COLSPAN="3" ALIGN="LEFT">CreatedDate</TD></TR>
+      <TR><TD PORT="CreatedById" COLSPAN="3" ALIGN="LEFT">CreatedById</TD></TR>
+      <TR><TD PORT="LastModifiedDate" COLSPAN="3" ALIGN="LEFT">LastModifiedDate</TD></TR>
+      <TR><TD PORT="LastModifiedById" COLSPAN="3" ALIGN="LEFT">LastModifiedById</TD></TR>
+      <TR><TD PORT="SystemModstamp" COLSPAN="3" ALIGN="LEFT">SystemModstamp</TD></TR>
+      <TR><TD PORT="GW_Volunteers__Contact_Match_Email_Fields__c" COLSPAN="3" ALIGN="LEFT">GW_Volunteers__Contact_Match_Email_Fields__c</TD></TR>
+      <TR><TD PORT="GW_Volunteers__Contact_Match_First_Name_Fields__c" COLSPAN="3" ALIGN="LEFT">GW_Volunteers__Contact_Match_First_Name_Fields__c</TD></TR>
+      <TR><TD PORT="GW_Volunteers__Contact_Matching_Rule__c" COLSPAN="3" ALIGN="LEFT">GW_Volunteers__Contact_Matching_Rule__c</TD></TR>
+      <TR><TD PORT="GW_Volunteers__Google_Maps_API_Key__c" COLSPAN="3" ALIGN="LEFT">GW_Volunteers__Google_Maps_API_Key__c</TD></TR>
+      <TR><TD PORT="GW_Volunteers__Personal_Site_Org_Wide_Email_Name__c" COLSPAN="3" ALIGN="LEFT">GW_Volunteers__Personal_Site_Org_Wide_Email_Name__c</TD></TR>
+      <TR><TD PORT="GW_Volunteers__Personal_Site_Report_Hours_Filtered__c" COLSPAN="3" ALIGN="LEFT">GW_Volunteers__Personal_Site_Report_Hours_Filtered__c</TD></TR>
+      <TR><TD PORT="GW_Volunteers__Personal_Site_Requires_URL_Email_Match__c" COLSPAN="3" ALIGN="LEFT">GW_Volunteers__Personal_Site_Requires_URL_Email_Match__c</TD></TR>
+      <TR><TD PORT="GW_Volunteers__Recurring_Job_Future_Months__c" COLSPAN="3" ALIGN="LEFT">GW_Volunteers__Recurring_Job_Future_Months__c</TD></TR>
+      <TR><TD PORT="GW_Volunteers__Signup_Bucket_Account_On_Create__c" COLSPAN="3" ALIGN="LEFT">GW_Volunteers__Signup_Bucket_Account_On_Create__c</TD></TR>
+      <TR><TD PORT="GW_Volunteers__Signup_Creates_Contacts_If_No_Match__c" COLSPAN="3" ALIGN="LEFT">GW_Volunteers__Signup_Creates_Contacts_If_No_Match__c</TD></TR>
+      <TR><TD PORT="GW_Volunteers__Signup_Matches_Existing_Contacts__c" COLSPAN="3" ALIGN="LEFT">GW_Volunteers__Signup_Matches_Existing_Contacts__c</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/GW_Volunteers__Volunteers_Settings__c.html"
+    tooltip="GW_Volunteers__Volunteers_Settings__c"
+  ];
+}

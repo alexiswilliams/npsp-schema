@@ -1,0 +1,68 @@
+// dot 2.40.1 on Mac OS X 10.12.6
+// SchemaSpy rev 590
+digraph "npe01__Contacts_And_Orgs_Settings__c" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Arial"
+    fontsize="8"
+  ];
+  node [
+    fontname="Arial"
+    fontsize="8"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "npe01__Contacts_And_Orgs_Settings__c" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">npe01__Contacts_And_Orgs_Settings__c</TD></TR>
+      <TR><TD PORT="Id" COLSPAN="3" BGCOLOR="#bed1b8" ALIGN="LEFT">Id</TD></TR>
+      <TR><TD PORT="IsDeleted" COLSPAN="3" ALIGN="LEFT">IsDeleted</TD></TR>
+      <TR><TD PORT="Name" COLSPAN="3" ALIGN="LEFT">Name</TD></TR>
+      <TR><TD PORT="SetupOwnerId" COLSPAN="3" ALIGN="LEFT">SetupOwnerId</TD></TR>
+      <TR><TD PORT="CreatedDate" COLSPAN="3" ALIGN="LEFT">CreatedDate</TD></TR>
+      <TR><TD PORT="CreatedById" COLSPAN="3" ALIGN="LEFT">CreatedById</TD></TR>
+      <TR><TD PORT="LastModifiedDate" COLSPAN="3" ALIGN="LEFT">LastModifiedDate</TD></TR>
+      <TR><TD PORT="LastModifiedById" COLSPAN="3" ALIGN="LEFT">LastModifiedById</TD></TR>
+      <TR><TD PORT="SystemModstamp" COLSPAN="3" ALIGN="LEFT">SystemModstamp</TD></TR>
+      <TR><TD PORT="npe01__Account_Processor__c" COLSPAN="3" ALIGN="LEFT">npe01__Account_Processor__c</TD></TR>
+      <TR><TD PORT="npe01__DISABLE_IndividualAccounts_trigger__c" COLSPAN="3" ALIGN="LEFT">npe01__DISABLE_IndividualAccounts_trigger__c</TD></TR>
+      <TR><TD PORT="npe01__DISABLE_OpportunityAccount_trigger__c" COLSPAN="3" ALIGN="LEFT">npe01__DISABLE_OpportunityAccount_trigger__c</TD></TR>
+      <TR><TD PORT="npe01__DISABLE_OpportunityContactRoles_trigger__c" COLSPAN="3" ALIGN="LEFT">npe01__DISABLE_OpportunityContactRoles_trigger__c</TD></TR>
+      <TR><TD PORT="npe01__DISABLE_OpportunityPayments_trigger__c" COLSPAN="3" ALIGN="LEFT">npe01__DISABLE_OpportunityPayments_trigger__c</TD></TR>
+      <TR><TD PORT="npe01__Default_Opp_on_Convert__c" COLSPAN="3" ALIGN="LEFT">npe01__Default_Opp_on_Convert__c</TD></TR>
+      <TR><TD PORT="npe01__Disable_Account_Model_Trigger__c" COLSPAN="3" ALIGN="LEFT">npe01__Disable_Account_Model_Trigger__c</TD></TR>
+      <TR><TD PORT="npe01__Enable_Opportunity_Contact_Role_Trigger__c" COLSPAN="3" ALIGN="LEFT">npe01__Enable_Opportunity_Contact_Role_Trigger__c</TD></TR>
+      <TR><TD PORT="npe01__Enable_Update_Check__c" COLSPAN="3" ALIGN="LEFT">npe01__Enable_Update_Check__c</TD></TR>
+      <TR><TD PORT="npe01__HH_Account_RecordTypeID__c" COLSPAN="3" ALIGN="LEFT">npe01__HH_Account_RecordTypeID__c</TD></TR>
+      <TR><TD PORT="npe01__Has_Package_Update__c" COLSPAN="3" ALIGN="LEFT">npe01__Has_Package_Update__c</TD></TR>
+      <TR><TD PORT="npe01__Last_Update_Check__c" COLSPAN="3" ALIGN="LEFT">npe01__Last_Update_Check__c</TD></TR>
+      <TR><TD PORT="npe01__Max_Package_Version__c" COLSPAN="3" ALIGN="LEFT">npe01__Max_Package_Version__c</TD></TR>
+      <TR><TD PORT="npe01__One_to_One_RecordTypeID__c" COLSPAN="3" ALIGN="LEFT">npe01__One_to_One_RecordTypeID__c</TD></TR>
+      <TR><TD PORT="npe01__Opportunity_Contact_Role_Default_role__c" COLSPAN="3" ALIGN="LEFT">npe01__Opportunity_Contact_Role_Default_role__c</TD></TR>
+      <TR><TD PORT="npe01__Package_Update_URL__c" COLSPAN="3" ALIGN="LEFT">npe01__Package_Update_URL__c</TD></TR>
+      <TR><TD PORT="npe01__Payments_Enabled__c" COLSPAN="3" ALIGN="LEFT">npe01__Payments_Enabled__c</TD></TR>
+      <TR><TD PORT="npe01__Update_Check_Interval__c" COLSPAN="3" ALIGN="LEFT">npe01__Update_Check_Interval__c</TD></TR>
+      <TR><TD PORT="npsp__Automatic_Campaign_Member_Management__c" COLSPAN="3" ALIGN="LEFT">npsp__Automatic_Campaign_Member_Management__c</TD></TR>
+      <TR><TD PORT="npsp__Campaign_Member_Non_Responded_Status__c" COLSPAN="3" ALIGN="LEFT">npsp__Campaign_Member_Non_Responded_Status__c</TD></TR>
+      <TR><TD PORT="npsp__Campaign_Member_Responded_Status__c" COLSPAN="3" ALIGN="LEFT">npsp__Campaign_Member_Responded_Status__c</TD></TR>
+      <TR><TD PORT="npsp__Honoree_Opportunity_Contact_Role__c" COLSPAN="3" ALIGN="LEFT">npsp__Honoree_Opportunity_Contact_Role__c</TD></TR>
+      <TR><TD PORT="npsp__Household_Account_Addresses_Disabled__c" COLSPAN="3" ALIGN="LEFT">npsp__Household_Account_Addresses_Disabled__c</TD></TR>
+      <TR><TD PORT="npsp__Max_Payments__c" COLSPAN="3" ALIGN="LEFT">npsp__Max_Payments__c</TD></TR>
+      <TR><TD PORT="npsp__Notification_Recipient_Opp_Contact_Role__c" COLSPAN="3" ALIGN="LEFT">npsp__Notification_Recipient_Opp_Contact_Role__c</TD></TR>
+      <TR><TD PORT="npsp__Opp_RecTypes_Excluded_for_Payments__c" COLSPAN="3" ALIGN="LEFT">npsp__Opp_RecTypes_Excluded_for_Payments__c</TD></TR>
+      <TR><TD PORT="npsp__Opp_Types_Excluded_for_Payments__c" COLSPAN="3" ALIGN="LEFT">npsp__Opp_Types_Excluded_for_Payments__c</TD></TR>
+      <TR><TD PORT="npsp__Organizational_Account_Addresses_Enabled__c" COLSPAN="3" ALIGN="LEFT">npsp__Organizational_Account_Addresses_Enabled__c</TD></TR>
+      <TR><TD PORT="npsp__Payments_Auto_Close_Stage_Name__c" COLSPAN="3" ALIGN="LEFT">npsp__Payments_Auto_Close_Stage_Name__c</TD></TR>
+      <TR><TD PORT="npsp__Simple_Address_Change_Treated_as_Update__c" COLSPAN="3" ALIGN="LEFT">npsp__Simple_Address_Change_Treated_as_Update__c</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/npe01__Contacts_And_Orgs_Settings__c.html"
+    tooltip="npe01__Contacts_And_Orgs_Settings__c"
+  ];
+}

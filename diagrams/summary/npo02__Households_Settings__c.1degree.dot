@@ -1,0 +1,74 @@
+// dot 2.40.1 on Mac OS X 10.12.6
+// SchemaSpy rev 590
+digraph "npo02__Households_Settings__c" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Arial"
+    fontsize="8"
+  ];
+  node [
+    fontname="Arial"
+    fontsize="8"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "npo02__Households_Settings__c" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">npo02__Households_Settings__c</TD></TR>
+      <TR><TD PORT="Id" COLSPAN="3" BGCOLOR="#bed1b8" ALIGN="LEFT">Id</TD></TR>
+      <TR><TD PORT="IsDeleted" COLSPAN="3" ALIGN="LEFT">IsDeleted</TD></TR>
+      <TR><TD PORT="Name" COLSPAN="3" ALIGN="LEFT">Name</TD></TR>
+      <TR><TD PORT="SetupOwnerId" COLSPAN="3" ALIGN="LEFT">SetupOwnerId</TD></TR>
+      <TR><TD PORT="CreatedDate" COLSPAN="3" ALIGN="LEFT">CreatedDate</TD></TR>
+      <TR><TD PORT="CreatedById" COLSPAN="3" ALIGN="LEFT">CreatedById</TD></TR>
+      <TR><TD PORT="LastModifiedDate" COLSPAN="3" ALIGN="LEFT">LastModifiedDate</TD></TR>
+      <TR><TD PORT="LastModifiedById" COLSPAN="3" ALIGN="LEFT">LastModifiedById</TD></TR>
+      <TR><TD PORT="SystemModstamp" COLSPAN="3" ALIGN="LEFT">SystemModstamp</TD></TR>
+      <TR><TD PORT="npo02__Advanced_Household_Naming__c" COLSPAN="3" ALIGN="LEFT">npo02__Advanced_Household_Naming__c</TD></TR>
+      <TR><TD PORT="npo02__Always_Rollup_to_Primary_Contact__c" COLSPAN="3" ALIGN="LEFT">npo02__Always_Rollup_to_Primary_Contact__c</TD></TR>
+      <TR><TD PORT="npo02__Async_Household_Naming__c" COLSPAN="3" ALIGN="LEFT">npo02__Async_Household_Naming__c</TD></TR>
+      <TR><TD PORT="npo02__Batch_Size__c" COLSPAN="3" ALIGN="LEFT">npo02__Batch_Size__c</TD></TR>
+      <TR><TD PORT="npo02__DISABLE_HouseholdAfter_trigger__c" COLSPAN="3" ALIGN="LEFT">npo02__DISABLE_HouseholdAfter_trigger__c</TD></TR>
+      <TR><TD PORT="npo02__DISABLE_HouseholdBefore_trigger__c" COLSPAN="3" ALIGN="LEFT">npo02__DISABLE_HouseholdBefore_trigger__c</TD></TR>
+      <TR><TD PORT="npo02__DISABLE_Household_Opportunity_trigger__c" COLSPAN="3" ALIGN="LEFT">npo02__DISABLE_Household_Opportunity_trigger__c</TD></TR>
+      <TR><TD PORT="npo02__DISABLE_Households_trigger__c" COLSPAN="3" ALIGN="LEFT">npo02__DISABLE_Households_trigger__c</TD></TR>
+      <TR><TD PORT="npo02__DISABLE_OpportunityRollup_trigger__c" COLSPAN="3" ALIGN="LEFT">npo02__DISABLE_OpportunityRollup_trigger__c</TD></TR>
+      <TR><TD PORT="npo02__Enable_Opp_Rollup_Triggers__c" COLSPAN="3" ALIGN="LEFT">npo02__Enable_Opp_Rollup_Triggers__c</TD></TR>
+      <TR><TD PORT="npo02__Enable_Soft_Credit_Rollups__c" COLSPAN="3" ALIGN="LEFT">npo02__Enable_Soft_Credit_Rollups__c</TD></TR>
+      <TR><TD PORT="npo02__Enable_Update_Check__c" COLSPAN="3" ALIGN="LEFT">npo02__Enable_Update_Check__c</TD></TR>
+      <TR><TD PORT="npo02__Excluded_Account_Opp_Rectypes__c" COLSPAN="3" ALIGN="LEFT">npo02__Excluded_Account_Opp_Rectypes__c</TD></TR>
+      <TR><TD PORT="npo02__Excluded_Account_Opp_Types__c" COLSPAN="3" ALIGN="LEFT">npo02__Excluded_Account_Opp_Types__c</TD></TR>
+      <TR><TD PORT="npo02__Excluded_Contact_Opp_Rectypes__c" COLSPAN="3" ALIGN="LEFT">npo02__Excluded_Contact_Opp_Rectypes__c</TD></TR>
+      <TR><TD PORT="npo02__Excluded_Contact_Opp_Types__c" COLSPAN="3" ALIGN="LEFT">npo02__Excluded_Contact_Opp_Types__c</TD></TR>
+      <TR><TD PORT="npo02__Force_Fiscal_Year__c" COLSPAN="3" ALIGN="LEFT">npo02__Force_Fiscal_Year__c</TD></TR>
+      <TR><TD PORT="npo02__Has_Package_Update__c" COLSPAN="3" ALIGN="LEFT">npo02__Has_Package_Update__c</TD></TR>
+      <TR><TD PORT="npo02__Household_Contact_Roles_On__c" COLSPAN="3" ALIGN="LEFT">npo02__Household_Contact_Roles_On__c</TD></TR>
+      <TR><TD PORT="npo02__Household_Creation_Excluded_Recordtypes__c" COLSPAN="3" ALIGN="LEFT">npo02__Household_Creation_Excluded_Recordtypes__c</TD></TR>
+      <TR><TD PORT="npo02__Household_Mailing_List_ID__c" COLSPAN="3" ALIGN="LEFT">npo02__Household_Mailing_List_ID__c</TD></TR>
+      <TR><TD PORT="npo02__Household_Member_Contact_Role__c" COLSPAN="3" ALIGN="LEFT">npo02__Household_Member_Contact_Role__c</TD></TR>
+      <TR><TD PORT="npo02__Household_OCR_Excluded_Recordtypes__c" COLSPAN="3" ALIGN="LEFT">npo02__Household_OCR_Excluded_Recordtypes__c</TD></TR>
+      <TR><TD PORT="npo02__Household_Rules__c" COLSPAN="3" ALIGN="LEFT">npo02__Household_Rules__c</TD></TR>
+      <TR><TD PORT="npo02__Last_Update_Check__c" COLSPAN="3" ALIGN="LEFT">npo02__Last_Update_Check__c</TD></TR>
+      <TR><TD PORT="npo02__Max_Package_Version__c" COLSPAN="3" ALIGN="LEFT">npo02__Max_Package_Version__c</TD></TR>
+      <TR><TD PORT="npo02__Membership_Grace_Period__c" COLSPAN="3" ALIGN="LEFT">npo02__Membership_Grace_Period__c</TD></TR>
+      <TR><TD PORT="npo02__Membership_Record_Types__c" COLSPAN="3" ALIGN="LEFT">npo02__Membership_Record_Types__c</TD></TR>
+      <TR><TD PORT="npo02__Opp_Rollup_Scheduled_Job_Id__c" COLSPAN="3" ALIGN="LEFT">npo02__Opp_Rollup_Scheduled_Job_Id__c</TD></TR>
+      <TR><TD PORT="npo02__Package_Update_URL__c" COLSPAN="3" ALIGN="LEFT">npo02__Package_Update_URL__c</TD></TR>
+      <TR><TD PORT="npo02__Rollup_N_Day_Value__c" COLSPAN="3" ALIGN="LEFT">npo02__Rollup_N_Day_Value__c</TD></TR>
+      <TR><TD PORT="npo02__Schedule_Job_Limit__c" COLSPAN="3" ALIGN="LEFT">npo02__Schedule_Job_Limit__c</TD></TR>
+      <TR><TD PORT="npo02__Soft_Credit_Roles__c" COLSPAN="3" ALIGN="LEFT">npo02__Soft_Credit_Roles__c</TD></TR>
+      <TR><TD PORT="npo02__Update_Check_Interval__c" COLSPAN="3" ALIGN="LEFT">npo02__Update_Check_Interval__c</TD></TR>
+      <TR><TD PORT="npo02__Use_Fiscal_Year_for_Rollups__c" COLSPAN="3" ALIGN="LEFT">npo02__Use_Fiscal_Year_for_Rollups__c</TD></TR>
+      <TR><TD PORT="npsp__Matched_Donor_Role__c" COLSPAN="3" ALIGN="LEFT">npsp__Matched_Donor_Role__c</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/npo02__Households_Settings__c.html"
+    tooltip="npo02__Households_Settings__c"
+  ];
+}

@@ -1,0 +1,49 @@
+// dot 2.40.1 on Mac OS X 10.12.6
+// SchemaSpy rev 590
+digraph "npsp__Address_Verification_Settings__c" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Arial"
+    fontsize="8"
+  ];
+  node [
+    fontname="Arial"
+    fontsize="8"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "npsp__Address_Verification_Settings__c" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">npsp__Address_Verification_Settings__c</TD></TR>
+      <TR><TD PORT="Id" COLSPAN="3" BGCOLOR="#bed1b8" ALIGN="LEFT">Id</TD></TR>
+      <TR><TD PORT="IsDeleted" COLSPAN="3" ALIGN="LEFT">IsDeleted</TD></TR>
+      <TR><TD PORT="Name" COLSPAN="3" ALIGN="LEFT">Name</TD></TR>
+      <TR><TD PORT="SetupOwnerId" COLSPAN="3" ALIGN="LEFT">SetupOwnerId</TD></TR>
+      <TR><TD PORT="CreatedDate" COLSPAN="3" ALIGN="LEFT">CreatedDate</TD></TR>
+      <TR><TD PORT="CreatedById" COLSPAN="3" ALIGN="LEFT">CreatedById</TD></TR>
+      <TR><TD PORT="LastModifiedDate" COLSPAN="3" ALIGN="LEFT">LastModifiedDate</TD></TR>
+      <TR><TD PORT="LastModifiedById" COLSPAN="3" ALIGN="LEFT">LastModifiedById</TD></TR>
+      <TR><TD PORT="SystemModstamp" COLSPAN="3" ALIGN="LEFT">SystemModstamp</TD></TR>
+      <TR><TD PORT="npsp__Address_Verification_Endpoint__c" COLSPAN="3" ALIGN="LEFT">npsp__Address_Verification_Endpoint__c</TD></TR>
+      <TR><TD PORT="npsp__Auth_ID__c" COLSPAN="3" ALIGN="LEFT">npsp__Auth_ID__c</TD></TR>
+      <TR><TD PORT="npsp__Auth_Token__c" COLSPAN="3" ALIGN="LEFT">npsp__Auth_Token__c</TD></TR>
+      <TR><TD PORT="npsp__Auto_Update_Addresses__c" COLSPAN="3" ALIGN="LEFT">npsp__Auto_Update_Addresses__c</TD></TR>
+      <TR><TD PORT="npsp__Class__c" COLSPAN="3" ALIGN="LEFT">npsp__Class__c</TD></TR>
+      <TR><TD PORT="npsp__Clear_Invalid_Addresses__c" COLSPAN="3" ALIGN="LEFT">npsp__Clear_Invalid_Addresses__c</TD></TR>
+      <TR><TD PORT="npsp__Enable_Automatic_Verification__c" COLSPAN="3" ALIGN="LEFT">npsp__Enable_Automatic_Verification__c</TD></TR>
+      <TR><TD PORT="npsp__Reject_Ambiguous_Addresses__c" COLSPAN="3" ALIGN="LEFT">npsp__Reject_Ambiguous_Addresses__c</TD></TR>
+      <TR><TD PORT="npsp__Timeout__c" COLSPAN="3" ALIGN="LEFT">npsp__Timeout__c</TD></TR>
+      <TR><TD PORT="npsp__Using_SmartyStreets__c" COLSPAN="3" ALIGN="LEFT">npsp__Using_SmartyStreets__c</TD></TR>
+      <TR><TD PORT="npsp__Zipcode_Verification_Endpoint__c" COLSPAN="3" ALIGN="LEFT">npsp__Zipcode_Verification_Endpoint__c</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/npsp__Address_Verification_Settings__c.html"
+    tooltip="npsp__Address_Verification_Settings__c"
+  ];
+}

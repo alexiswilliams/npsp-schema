@@ -1,0 +1,44 @@
+// dot 2.40.1 on Mac OS X 10.12.6
+// SchemaSpy rev 590
+digraph "npsp__Allocations_Settings__c" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Arial"
+    fontsize="8"
+  ];
+  node [
+    fontname="Arial"
+    fontsize="8"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "npsp__Allocations_Settings__c" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">npsp__Allocations_Settings__c</TD></TR>
+      <TR><TD PORT="Id" COLSPAN="3" BGCOLOR="#bed1b8" ALIGN="LEFT">Id</TD></TR>
+      <TR><TD PORT="IsDeleted" COLSPAN="3" ALIGN="LEFT">IsDeleted</TD></TR>
+      <TR><TD PORT="Name" COLSPAN="3" ALIGN="LEFT">Name</TD></TR>
+      <TR><TD PORT="SetupOwnerId" COLSPAN="3" ALIGN="LEFT">SetupOwnerId</TD></TR>
+      <TR><TD PORT="CreatedDate" COLSPAN="3" ALIGN="LEFT">CreatedDate</TD></TR>
+      <TR><TD PORT="CreatedById" COLSPAN="3" ALIGN="LEFT">CreatedById</TD></TR>
+      <TR><TD PORT="LastModifiedDate" COLSPAN="3" ALIGN="LEFT">LastModifiedDate</TD></TR>
+      <TR><TD PORT="LastModifiedById" COLSPAN="3" ALIGN="LEFT">LastModifiedById</TD></TR>
+      <TR><TD PORT="SystemModstamp" COLSPAN="3" ALIGN="LEFT">SystemModstamp</TD></TR>
+      <TR><TD PORT="npsp__Default_Allocations_Enabled__c" COLSPAN="3" ALIGN="LEFT">npsp__Default_Allocations_Enabled__c</TD></TR>
+      <TR><TD PORT="npsp__Default__c" COLSPAN="3" ALIGN="LEFT">npsp__Default__c</TD></TR>
+      <TR><TD PORT="npsp__Excluded_Opp_RecTypes__c" COLSPAN="3" ALIGN="LEFT">npsp__Excluded_Opp_RecTypes__c</TD></TR>
+      <TR><TD PORT="npsp__Excluded_Opp_Types__c" COLSPAN="3" ALIGN="LEFT">npsp__Excluded_Opp_Types__c</TD></TR>
+      <TR><TD PORT="npsp__Rollup_N_Day_Value__c" COLSPAN="3" ALIGN="LEFT">npsp__Rollup_N_Day_Value__c</TD></TR>
+      <TR><TD PORT="npsp__Use_Fiscal_Year_for_Rollups__c" COLSPAN="3" ALIGN="LEFT">npsp__Use_Fiscal_Year_for_Rollups__c</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/npsp__Allocations_Settings__c.html"
+    tooltip="npsp__Allocations_Settings__c"
+  ];
+}

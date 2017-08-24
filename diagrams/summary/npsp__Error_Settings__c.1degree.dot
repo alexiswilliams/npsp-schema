@@ -1,0 +1,45 @@
+// dot 2.40.1 on Mac OS X 10.12.6
+// SchemaSpy rev 590
+digraph "npsp__Error_Settings__c" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Arial"
+    fontsize="8"
+  ];
+  node [
+    fontname="Arial"
+    fontsize="8"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "npsp__Error_Settings__c" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">npsp__Error_Settings__c</TD></TR>
+      <TR><TD PORT="Id" COLSPAN="3" BGCOLOR="#bed1b8" ALIGN="LEFT">Id</TD></TR>
+      <TR><TD PORT="IsDeleted" COLSPAN="3" ALIGN="LEFT">IsDeleted</TD></TR>
+      <TR><TD PORT="Name" COLSPAN="3" ALIGN="LEFT">Name</TD></TR>
+      <TR><TD PORT="SetupOwnerId" COLSPAN="3" ALIGN="LEFT">SetupOwnerId</TD></TR>
+      <TR><TD PORT="CreatedDate" COLSPAN="3" ALIGN="LEFT">CreatedDate</TD></TR>
+      <TR><TD PORT="CreatedById" COLSPAN="3" ALIGN="LEFT">CreatedById</TD></TR>
+      <TR><TD PORT="LastModifiedDate" COLSPAN="3" ALIGN="LEFT">LastModifiedDate</TD></TR>
+      <TR><TD PORT="LastModifiedById" COLSPAN="3" ALIGN="LEFT">LastModifiedById</TD></TR>
+      <TR><TD PORT="SystemModstamp" COLSPAN="3" ALIGN="LEFT">SystemModstamp</TD></TR>
+      <TR><TD PORT="npsp__Async_Error_Check_Last_Run__c" COLSPAN="3" ALIGN="LEFT">npsp__Async_Error_Check_Last_Run__c</TD></TR>
+      <TR><TD PORT="npsp__Disable_Error_Handling__c" COLSPAN="3" ALIGN="LEFT">npsp__Disable_Error_Handling__c</TD></TR>
+      <TR><TD PORT="npsp__Don_t_Auto_Schedule_Default_NPSP_Jobs__c" COLSPAN="3" ALIGN="LEFT">npsp__Don_t_Auto_Schedule_Default_NPSP_Jobs__c</TD></TR>
+      <TR><TD PORT="npsp__Enable_Debug__c" COLSPAN="3" ALIGN="LEFT">npsp__Enable_Debug__c</TD></TR>
+      <TR><TD PORT="npsp__Error_Notifications_On__c" COLSPAN="3" ALIGN="LEFT">npsp__Error_Notifications_On__c</TD></TR>
+      <TR><TD PORT="npsp__Error_Notifications_To__c" COLSPAN="3" ALIGN="LEFT">npsp__Error_Notifications_To__c</TD></TR>
+      <TR><TD PORT="npsp__Store_Errors_On__c" COLSPAN="3" ALIGN="LEFT">npsp__Store_Errors_On__c</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/npsp__Error_Settings__c.html"
+    tooltip="npsp__Error_Settings__c"
+  ];
+}

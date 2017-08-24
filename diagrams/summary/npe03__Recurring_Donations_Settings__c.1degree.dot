@@ -1,0 +1,57 @@
+// dot 2.40.1 on Mac OS X 10.12.6
+// SchemaSpy rev 590
+digraph "npe03__Recurring_Donations_Settings__c" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Arial"
+    fontsize="8"
+  ];
+  node [
+    fontname="Arial"
+    fontsize="8"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "npe03__Recurring_Donations_Settings__c" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">npe03__Recurring_Donations_Settings__c</TD></TR>
+      <TR><TD PORT="Id" COLSPAN="3" BGCOLOR="#bed1b8" ALIGN="LEFT">Id</TD></TR>
+      <TR><TD PORT="IsDeleted" COLSPAN="3" ALIGN="LEFT">IsDeleted</TD></TR>
+      <TR><TD PORT="Name" COLSPAN="3" ALIGN="LEFT">Name</TD></TR>
+      <TR><TD PORT="SetupOwnerId" COLSPAN="3" ALIGN="LEFT">SetupOwnerId</TD></TR>
+      <TR><TD PORT="CreatedDate" COLSPAN="3" ALIGN="LEFT">CreatedDate</TD></TR>
+      <TR><TD PORT="CreatedById" COLSPAN="3" ALIGN="LEFT">CreatedById</TD></TR>
+      <TR><TD PORT="LastModifiedDate" COLSPAN="3" ALIGN="LEFT">LastModifiedDate</TD></TR>
+      <TR><TD PORT="LastModifiedById" COLSPAN="3" ALIGN="LEFT">LastModifiedById</TD></TR>
+      <TR><TD PORT="SystemModstamp" COLSPAN="3" ALIGN="LEFT">SystemModstamp</TD></TR>
+      <TR><TD PORT="npe03__Add_Campaign_to_All_Opportunites__c" COLSPAN="3" ALIGN="LEFT">npe03__Add_Campaign_to_All_Opportunites__c</TD></TR>
+      <TR><TD PORT="npe03__DISABLE_Donations_trigger__c" COLSPAN="3" ALIGN="LEFT">npe03__DISABLE_Donations_trigger__c</TD></TR>
+      <TR><TD PORT="npe03__DISABLE_RecurringDonations_trigger__c" COLSPAN="3" ALIGN="LEFT">npe03__DISABLE_RecurringDonations_trigger__c</TD></TR>
+      <TR><TD PORT="npe03__Disable_Nightly_Job__c" COLSPAN="3" ALIGN="LEFT">npe03__Disable_Nightly_Job__c</TD></TR>
+      <TR><TD PORT="npe03__Enable_Update_Check__c" COLSPAN="3" ALIGN="LEFT">npe03__Enable_Update_Check__c</TD></TR>
+      <TR><TD PORT="npe03__Error_Email_Notifications__c" COLSPAN="3" ALIGN="LEFT">npe03__Error_Email_Notifications__c</TD></TR>
+      <TR><TD PORT="npe03__Has_Package_Update__c" COLSPAN="3" ALIGN="LEFT">npe03__Has_Package_Update__c</TD></TR>
+      <TR><TD PORT="npe03__Last_Batch_Run__c" COLSPAN="3" ALIGN="LEFT">npe03__Last_Batch_Run__c</TD></TR>
+      <TR><TD PORT="npe03__Last_Update_Check__c" COLSPAN="3" ALIGN="LEFT">npe03__Last_Update_Check__c</TD></TR>
+      <TR><TD PORT="npe03__Max_Package_Version__c" COLSPAN="3" ALIGN="LEFT">npe03__Max_Package_Version__c</TD></TR>
+      <TR><TD PORT="npe03__Maximum_Donations__c" COLSPAN="3" ALIGN="LEFT">npe03__Maximum_Donations__c</TD></TR>
+      <TR><TD PORT="npe03__Nightly_Update_ID__c" COLSPAN="3" ALIGN="LEFT">npe03__Nightly_Update_ID__c</TD></TR>
+      <TR><TD PORT="npe03__Number_of_Failures__c" COLSPAN="3" ALIGN="LEFT">npe03__Number_of_Failures__c</TD></TR>
+      <TR><TD PORT="npe03__Number_of_Successes__c" COLSPAN="3" ALIGN="LEFT">npe03__Number_of_Successes__c</TD></TR>
+      <TR><TD PORT="npe03__Open_Opportunity_Behavior__c" COLSPAN="3" ALIGN="LEFT">npe03__Open_Opportunity_Behavior__c</TD></TR>
+      <TR><TD PORT="npe03__Opportunity_Forecast_Months__c" COLSPAN="3" ALIGN="LEFT">npe03__Opportunity_Forecast_Months__c</TD></TR>
+      <TR><TD PORT="npe03__Package_Update_URL__c" COLSPAN="3" ALIGN="LEFT">npe03__Package_Update_URL__c</TD></TR>
+      <TR><TD PORT="npe03__Record_Type__c" COLSPAN="3" ALIGN="LEFT">npe03__Record_Type__c</TD></TR>
+      <TR><TD PORT="npe03__Update_Check_Interval__c" COLSPAN="3" ALIGN="LEFT">npe03__Update_Check_Interval__c</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/npe03__Recurring_Donations_Settings__c.html"
+    tooltip="npe03__Recurring_Donations_Settings__c"
+  ];
+}
